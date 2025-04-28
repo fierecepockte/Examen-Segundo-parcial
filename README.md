@@ -54,7 +54,7 @@ El proyecto tiene dos clases principales:
 
 6. Los datos quedarán guardados en un archivo llamado **`personas.txt`** en la misma carpeta donde se ejecuta el programa.
 7. cada darto que registres quedara en el archivo .txt.
-Puede consultar los videos y capturas de pantalla en el presente repositorio.
+-Puede consultar los videos y capturas de pantalla en el presente repositorio.
 
 
 
